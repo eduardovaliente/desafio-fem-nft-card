@@ -47,6 +47,8 @@ main {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  -webkit-box-shadow: 0px 0px 62px 7px;
+          box-shadow: 0px 0px 62px 7px;
 }
 
 .card__img {
